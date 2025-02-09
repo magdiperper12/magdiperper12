@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! 👋 I'm Magdi Saleh Perper<br>I'm a Front-End Developer specializing in React, TypeScript, Gatsby, and Tailwind CSS. I love building modern, responsive, and interactive web applications with a focus on performance and user experience.<br><br>🔹 Tech Stack:<br><br>🖥️ Front-End: React, TypeScript, JavaScript, Gatsby<br>🎨 Styling: Tailwind CSS, CSS-in-JS<br>📡 Backend & CMS: Strapi, GraphQL<br>⚙️ Tools & Workflow: Git, GitHub, VS Code, Figma<br>🔹 What I'm Working On:<br>🚀 Improving UI/UX with smooth animations and responsive layouts.<br>📈 Enhancing site performance and SEO with Gatsby.<br>🌗 Implementing dark mode and dynamic themes.<br><br>🔹 More About Me:<br>💡 Passionate about crafting intuitive and engaging user experiences.<br>🎯 Always learning new technologies and improving problem-solving skills.<br>📝 Documenting my journey and sharing insights through open-source projects.
+# 💫 Hi there! 👋 I'm Magdi Saleh Perper
+🔹 What I'm Working On:<br>🚀 Improving UI/UX with smooth animations and responsive layouts.<br>📈 Enhancing site performance and SEO with Gatsby.<br>🌗 Implementing dark mode and dynamic themes.<br><br>🔹 More About Me:<br>💡 Passionate about crafting intuitive and engaging user experiences.<br>🎯 Always learning new technologies and improving problem-solving skills.<br>📝 Documenting my journey and sharing insights through open-source projects.
 
 
 ## 🌐 Socials:
