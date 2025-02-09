@@ -1,5 +1,5 @@
 # 💫 Hi there! 👋 I'm Magdi Saleh Perper
-🚀 Improving UI/UX with smooth animations and responsive layouts.<br>📈 Enhancing site performance and SEO with nextjs & Gatsby.<br>🌗 Implementing dark mode and dynamic themes.<br><br>💡 Passionate about crafting intuitive and engaging user experiences.<br>🎯 Always learning new technologies and improving problem-solving skills.<br>📝 Documenting my journey and sharing insights through open-source projects.
+🚀 Improving UI/UX with smooth animations and responsive layouts.<br>📈 Enhancing site performance and SEO with nextjs & Gatsby.<br>🌗 Implementing dark mode and dynamic themes.<br>💡 Passionate about crafting intuitive and engaging user experiences.<br>🎯 Always learning new technologies and improving problem-solving skills.
 
 
 ## 🌐 Socials:
